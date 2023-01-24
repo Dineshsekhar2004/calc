@@ -25,8 +25,47 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+<div class="calculator">
+        <input type="text" name="screen" id="screen">
+        <table>
+            <tr>
+                <td><button>(</button></td>
+                <td><button>)</button></td>
+                <td><button>C</button></td>
+                <td><button>%</button></td>
+            </tr>
+            <tr>
+                <td><button>7</button></td>
+                <td><button>8</button></td>
+                <td><button>9</button></td>
+                <td><button>X</button></td>
+            </tr>
+            <tr>
+                <td><button>4</button></td>
+                <td><button>5</button></td>
+                <td><button>6</button></td>
+                <td><button>-</button></td>
+            </tr>
+            <tr>
+                <td><button>1</button></td>
+                <td><button>2</button></td>
+                <td><button>3</button></td>
+                <td><button>+</button></td>
+            </tr>
+            <tr>
+                <td><button>0</button></td>
+                <td><button>.</button></td>
+                <td><button>/</button></td>
+                <td><button>=</button></td>
+            </tr>
+        </table>
+    </div>
+</div>
+
 
 ## OUTPUT:
+![Screenshot_20230124_110131](https://user-images.githubusercontent.com/119405916/214219265-ca07d841-a6d0-46e2-9589-9a72c82033ed.png)
+
 
 ## HTML VALIDATOR:
 
