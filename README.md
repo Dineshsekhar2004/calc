@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <div class="calculator">
         <input type="text" name="screen" id="screen">
         <table>
@@ -61,6 +62,7 @@ Publish the website in the given URL.
         </table>
     </div>
 </div>
+```
 
 
 ## OUTPUT:
